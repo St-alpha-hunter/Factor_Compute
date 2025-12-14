@@ -1,10 +1,18 @@
 ### 项目名称 ###
 
 自动化计算高频因子工作流
+Automated calculation of high-frequency factor workflow
 
 ### 项目描述 ###
 
 该项目是一个计算高频因子的工作流，支持用户一键完成对多个高频因子的快速生成及复现
+The project focuses on implementing several microstructure-driven factors, including:
+
+Intraday volume ratio (morning vs afternoon)
+
+Active buy/sell ratio (ACT, broken down by order size)
+
+Order size distribution ratios from order-level data
 
 ### 项目结构 ###
 
